@@ -1,0 +1,67 @@
+h1 {
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 50px;
+	margin: 40px;
+}
+
+.button1 {
+	background-color: #4CAF50;
+  color: white;
+  border-radius: 7px;
+}
+
+#numbers {
+	background-color: rgba(240, 239, 206, 0.959);
+}
+body {
+	background-color: bisque;
+	border: 3px solid rgb(228, 195, 11);
+}
+.inp {
+	max-width: 100%;
+	height: auto;
+	box-sizing: border-box;
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 20px;
+	margin: 40px;
+  }
+
+  .mycl {
+	display: flex;
+    flex-wrap: wrap;
+    color: rgb(27, 23, 7);
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 25px;
+    text-align: center;
+    font-weight: 450;
+	margin: 40px;
+	
+    }
+  
+
+.element1 {
+	width: 130px;
+	margin: 10px;
+  border: 5px solid rgb(9, 24, 1);
+  border-radius: 7px;
+
+}
+.element2 {
+	width: 130px;
+	margin: 10px;
+  border: 5px solid rgb(12, 107, 44);
+  border-radius: 7px;
+}
+.element3 {
+	width: 130px;
+	margin: 10px;
+  border: 5px solid rgb(8, 231, 56);
+  border-radius: 7px;
+ 
+}
+.element4{
+	width: 130px;
+	margin: 10px;
+  border: 5px solid rgb(169, 223, 20);
+  border-radius: 7px;
+}
