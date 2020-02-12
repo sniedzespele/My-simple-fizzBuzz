@@ -1,2 +1,2 @@
-# homework3
+# homework for coding school
 html, basic javascript, css
